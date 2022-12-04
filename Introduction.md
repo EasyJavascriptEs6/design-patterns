@@ -6,4 +6,4 @@ Over the years, the JavaScript ecosystem and language has changed rapidly, and d
 
 In this chapter, we'll cover some traditional and modern design patterns, and walk through the implementation, the tradeoffs, and how useful they still are nowadays.
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
+[![asciicast](https://asciinema.org/a/113463.png)](https://asciinema.org/a/113463)
